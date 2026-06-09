@@ -1,4 +1,4 @@
-#  
+#  vip Scripts for hooked offers the most advanced hooked Script, with auto-upgrade and speed. Perfect for dominating any match.
 
 
 
